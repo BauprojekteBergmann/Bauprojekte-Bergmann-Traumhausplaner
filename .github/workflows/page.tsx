@@ -1,0 +1,1 @@
+export { default } from '../../Bauprojekte_Bergmann_Traumhausplaner.jsx';
